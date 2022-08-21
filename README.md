@@ -7,7 +7,7 @@
 ---
 I'm a Computer System Engineering student and future FullStack Developer! I love learning, coding and outsmarting myself. 🙋‍♂️
 
-During my carrer I could develop my Programming logic, improve my Mathematical thinking and learn the Software Engineering. In this time  I worked with C++, Java and Python using the SCRUM methodology in some team projects.  
+During my university career I was able to develop my programming logic, improve my mathematical thinking and learn Software Engineering. In this period I developed applications with C++, Java and Python, using the SCRUM methodology in some of them.
 
 - 🧠 I’m currently learning PHP-JavaScript and reinforcing my knowledge in HTML-CSS.
 - 🖥 I’m currently working at H. Ayuntamiento de Álamo Temapache in the Systems Department.
