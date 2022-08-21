@@ -7,7 +7,9 @@
 ---
 I'm a Computer System Engineering student and future FullStack Developer! I love learning, coding and outsmarting myself. 🙋‍♂️
 
-- 🧠 I’m currently learning PHP and JavaScript and reinforcing my knowledge in CSS and HTML.
+During my carrer I could develop my Programming logic, improve my Mathematical thinking and learn the Software Engineering. In this time  I worked with C++, Java and Python using the SCRUM methodology in some team projects.  
+
+- 🧠 I’m currently learning PHP-JavaScript and reinforcing my knowledge in HTML-CSS.
 - 🖥 I’m currently working at H. Ayuntamiento de Álamo Temapache in the Systems Department.
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
