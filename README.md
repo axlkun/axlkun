@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/axel-andr%C3%A9s-cruz-c%C3%B3rdova-503229250/">Linkedln</a> •
   <a href="https://instagram.com/axlkun">Instagram</a>
+  <a href="mailto:axelcruz.dev@gmail.com">E-mail</a>
 </p>
 
 ---
