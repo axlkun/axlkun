@@ -7,6 +7,6 @@
 </p>
 
 ---
-I'm a Computer System Engineering! I love learning, coding and outsmarting myself. 🙋‍♂️
+I'm a Computer System Engineer! I love learning, coding and outsmarting myself. 🙋‍♂️
 
 Feel free to create a pull request to contribute to any of my repositories.
