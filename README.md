@@ -20,3 +20,10 @@ I'm a Computer System Engineer! I love learning, coding, and outsmarting myself.
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" **alt="SQLServer" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>  
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axlkun&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axlkun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
