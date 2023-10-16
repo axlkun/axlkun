@@ -7,8 +7,10 @@
 </p>
 
 ---
+### :man_technologist: About Me :
 I'm a Computer System Engineer! I love learning, coding, and outsmarting myself. 🙋‍♂️
 
+---
 ### :hammer_and_wrench: Languages and Tools I recently used:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/> 
