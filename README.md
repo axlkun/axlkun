@@ -12,6 +12,7 @@
 <div align="center">
   <h3>👨‍💻 About Me:</h3>
   <p>I'm a Computer System Engineer! I love learning, coding, and outsmarting myself. 🙋‍♂️</p>
+  <p>My current stack is Vue with Laravel, but I'm always experimenting with fresh tech. I thrive on side projects to keep learning and pushing the boundaries of what's possible.</p>
 </div>
 
 
