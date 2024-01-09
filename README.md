@@ -39,7 +39,7 @@
   <h3 align="center">🔥 My stats:</h3>
   <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axlkun&theme=dark&background=0D1117&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=axlkun&theme=vue-dark)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axlkun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
