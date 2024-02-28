@@ -21,7 +21,7 @@
 <div align="center">
   <h3>🛠️ Languages and Tools I recently used:</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" **alt="Vuejs" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" **alt="Nuxt" width="40" height="40"/> 
